@@ -1,16 +1,16 @@
-## Hi there 👋
+# Sobre
 
-<!--
-**LucianoR8/LucianoR8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Sou Luciano Ribeiro, tenho 21 anos e sou estudante de Ciências da Computação, tenho interesse especial em desenvolvimento back-end e busco aprendizado contínuo.
 
-Here are some ideas to get you started:
+## Tecnologias em aprendizado
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projetos
+
+  - [Rota Livre](url)
+
+### Contato
+
+  - [Linkedin](url)
