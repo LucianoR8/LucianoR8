@@ -14,6 +14,5 @@
 
   - [Rota Livre](https://github.com/LucianoR8/RotaLivre-Web)
 
-### Contato
 
-  - [Linkedin](url)
+
