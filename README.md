@@ -1,6 +1,6 @@
 # Sobre
 
-  Sou Luciano Ribeiro, tenho 21 anos e sou estudante de Ciências da Computação, tenho interesse especial em desenvolvimento back-end, busco aprendizado contínuo junto de boas práticas.
+  Sou Luciano Ribeiro, tenho 21 anos e sou estudante de Ciências da Computação, tenho interesse especial em desenvolvimento back-end e dados, busco aprendizado contínuo junto de boas práticas.
 
 ## Ferramentas e Tecnologias em aprendizado
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
