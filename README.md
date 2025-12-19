@@ -20,7 +20,8 @@
 ### Contato
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=contato.lucianor@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luciano%20Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luciano-ribeiro-b2839a2b5)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-ribeiro-b2839a2b5)
+
 
 
 
