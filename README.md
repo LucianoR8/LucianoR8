@@ -21,7 +21,8 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=contato.lucianor@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-ribeiro-b2839a2b5)
-[![beecrowd](https://img.shields.io/badge/beecrowd-2C2C2C?style=for-the-badge&logo=codeforces&logoColor=white)](https://judge.beecrowd.com/pt/profile/1151072)
+[![beecrowd](https://img.shields.io/badge/beecrowd-5A2D81?style=for-the-badge&llogoColor=FFC107)](https://judge.beecrowd.com/pt/profile/1151072)
+
 
 
 
