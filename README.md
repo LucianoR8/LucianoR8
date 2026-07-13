@@ -1,6 +1,6 @@
 # Sobre
 
-  Interesse especial em desenvolvimento back-end, busco aprendizado contínuo junto de boas práticas.
+  Tenho interesse especial em desenvolvimento back-end, busco aprendizado contínuo junto de boas práticas.
 
 ## Ferramentas e Tecnologias em aprendizado
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
